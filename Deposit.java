@@ -25,7 +25,7 @@ public class Deposit extends AtmCoreInformation{
                 System.out.println("\n------------------------------------------------------------");
                 System.out.println("Successfully Deposited Amount of : " + _depositCash);
                 System.out.println("------------------------------------------------------------");
-                //System.out.printf("\nACCOUNT BALANCE: %.2f%n",_balanceCash);
+                
                 
                     System.out.println("\nWould You Like To Do Another Transaction? (Y/N)");
                     System.out.print("Enter Here: ");
